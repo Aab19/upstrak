@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>887533E9-E09B-408B-AB7C-D769EEE8FCC7</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M3.5621832e-05,2.09544132 L2.68619628,0.00975837229 C3.32725483,1.84480866 5.07353253,3.16121212 7.12727273,3.16121212 C8.14986154,3.16121212 9.09622434,2.83484975 9.86788361,2.2806025 L12.4905475,4.39419895 C11.0716658,5.67697911 9.19069908,6.45818182 7.12727273,6.45818182 C4.01876898,6.45818182 1.32435237,4.68526407 3.56218319e-05,2.09544132 Z" id="path-1"></path>
+        <path d="M0.907105852,0.0102885786 L3.5911233,2.07311422 C3.40092176,2.58397492 3.2969697,3.1368175 3.2969697,3.71393939 C3.2969697,4.27891386 3.39659179,4.82062033 3.57922785,5.32245071 L0.878270386,7.3619492 C0.316830944,6.26809406 0,5.02801664 0,3.71393939 C0,2.37753026 0.327691115,1.11765749 0.907105852,0.0102885786 Z" id="path-3"></path>
+        <path d="M2.69900209,6.35917482 L0.0149846399,4.29634918 C1.35116246,1.74266581 4.02600992,0 7.10787879,0 C9.32378123,0 11.3292621,0.900921749 12.7780144,2.35645814 L10.4551785,4.6963528 C9.60243523,3.83241269 8.41768672,3.2969697 7.10787879,3.2969697 C5.08758876,3.2969697 3.36482725,4.57084068 2.69900209,6.35917482 Z" id="path-5"></path>
+    </defs>
+    <g id="1.-LANDING-PAGE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-0-1-Landing-Page---Login" transform="translate(-783.000000, -363.000000)">
+            <g id="Daftar-Dengan-Google" transform="translate(767.000000, 355.000000)">
+                <g id="Google" transform="translate(16.000000, 8.000000)">
+                    <g id="Group-5" transform="translate(8.048485, 6.341818)" fill="#4285F4">
+                        <path d="M5.31539259,7.59365404 L2.69488126,5.47862205 C3.44701442,4.93757904 4.03288297,4.1799159 4.36114982,3.29696973 L1.77635684e-15,3.2969697 L1.77635684e-15,2.66453526e-15 L7.77944952,2.66453526e-15 C7.89221035,0.534976703 7.95151515,1.08965357 7.95151515,1.65818182 C7.95151515,1.93901243 7.93704495,2.21646334 7.90880946,2.48982962 C7.70031103,4.50843996 6.74122719,6.30432632 5.31539259,7.59365404 Z" id="Combined-Shape"></path>
+                    </g>
+                    <g id="Group-5" transform="translate(0.872727, 9.541818)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#34A853" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-5" transform="translate(0.000000, 4.286061)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#FBBC05" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Group-5" transform="translate(0.892121, 0.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#EA4335" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
